@@ -1,4 +1,4 @@
-const COIN_RANKING_API_URL = "http://localhost:5000/coins"
+const COIN_RANKING_API_URL = "https://crypto-app-ashish.herokuapp.com/coins"
 const coinList = document.getElementById("data")
 const filterInput = document.getElementById("filter")
 
